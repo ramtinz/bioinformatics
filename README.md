@@ -120,3 +120,26 @@ R packages for microbiology:
 | metagenomeSeq | Microbiology data analysis | Provides tools for the statistical analysis of microbiology data, includes support for differential abundance analysis |
 | Vegan | Microbiology data analysis | Provides tools for the analysis of community composition data, includes support for ordination and diversity analysis |
 | phyloT | Microbiology data visualization | Provides tools for the visualization of microbiology data, including phylogenetic trees and networks |
+
+Python libraries to analyze metagenomics data:
+
+| Library | Applications | Key Advantages |
+| --- | --- | --- |
+| QIIME | Metagenomics data analysis | Wide range of tools for the analysis of metagenomics data, includes support for OTU picking, taxonomic assignment, and more |
+| mothur | Metagenomics data analysis | Wide range of tools for the analysis of metagenomics data, includes support for OTU picking, taxonomic assignment, and more |
+| Phyloseq | Metagenomics data visualization and analysis | Provides tools for the visualization and statistical analysis of metagenomics data |
+| MetaGenomics | Metagenomics data analysis | Provides tools for the analysis of metagenomics data, including OTU picking and taxonomic assignment |
+| MetaMegan | Metagenomics data analysis | Provides tools for the analysis of metagenomics data, including taxonomic and functional profiling |
+| MetaPhlAn | Metagenomics data analysis | Fast and accurate taxonomic assignment of metagenomic reads |
+| Sourmash | Metagenomics data analysis | Provides tools for the comparison and analysis of microbial signatures (sourmash signatures) |
+| MetaMap | Metagenomics data analysis | Provides tools for the mapping of high-throughput sequencing reads to reference genomes |
+
+R packages to analyze metagenomics data:
+
+| Library | Applications | Key Advantages |
+| --- | --- | --- |
+| phyloseq | Metagenomics data visualization and analysis | Provides tools for the visualization and statistical analysis of metagenomics data |
+| metagenomeSeq | Metagenomics data analysis | Provides tools for the statistical analysis of metagenomics data, includes support for differential abundance analysis |
+| Vegan | Metagenomics data analysis | Provides tools for the analysis of community composition data, includes support for ordination and diversity analysis |
+| phyloT | Metagenomics data visualization | Provides tools for the visualization of metagenomics data, including phylogenetic trees and networks |
+| Tn-SeqR | Metagenomics data analysis | Provides tools for the analysis of transposon sequencing data, including taxonomic assignment and abundance estimation |
