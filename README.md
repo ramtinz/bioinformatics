@@ -2,6 +2,10 @@
 
 This guide provides an overview of bioinformatics libraries across various programming languages, along with their key advantages.
 
+## Contribute to This List
+
+Please feel free to contribute to this list to help keep it updated and inclusive of the most common bioinformatics tools. Your input is valuable in ensuring that this resource remains comprehensive and beneficial for everyone in the bioinformatics community.
+
 ## General Bioinformatics Libraries
 
 | Library       | Language | Key Advantages                                                |
@@ -119,3 +123,17 @@ This guide provides an overview of bioinformatics libraries across various progr
 | metagenomeSeq    | Tools for statistical analysis, including differential abundance analysis |
 | Vegan            | Tools for community composition data analysis                  |
 | phyloT          | Visualization tools for microbiology data, including phylogenetic trees |
+
+## Deep Learning and Machine Learning Tools
+
+| Library          | Language | Key Advantages                                                |
+|------------------|----------|--------------------------------------------------------------|
+| AlphaFold2       | Python   | State-of-the-art protein structure prediction using deep learning |
+| DeepVariant      | Python   | Variant calling from next-generation sequencing data          |
+| GATK (Genome Analysis Toolkit) | Java | Comprehensive toolkit for variant discovery in high-throughput sequencing data |
+| TensorFlow       | Python   | Open-source library for numerical computation, widely used for deep learning applications |
+| PyTorch          | Python   | Popular deep learning framework known for its flexibility and ease of use |
+| scikit-learn     | Python   | Simple and efficient tools for data mining and data analysis, includes machine learning algorithms |
+| BioBERT          | Python   | Pre-trained biomedical language representation model, useful for various bioinformatics NLP tasks |
+| Keras            | Python   | High-level neural networks API, capable of running on top of TensorFlow |
+
